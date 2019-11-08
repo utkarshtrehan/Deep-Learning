@@ -1,5 +1,7 @@
 # Deep-Learning
 
 
+Instructor: Andrew Ng
+Introduction
 
-This repository contains following Projects
+This repo contains all my work for this specialization. All the code base, quiz questions, screenshot, and images, are taken from, unless specified, Deep Learning Specialization on Coursera.
