@@ -1,5 +1,5 @@
 # Deep-Learning 🧠
-
+![image](https://github.com/UtkarshTrehan-icloud/Deep-Learning/blob/master/Logo/Logo.png)
 
 Instructor: [Andrew Ng](https://www.andrewng.org/) 👨🏻‍🏫
 
