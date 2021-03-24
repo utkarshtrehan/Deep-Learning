@@ -3,6 +3,9 @@
 
 Instructor: [Andrew Ng](https://www.andrewng.org/) 👨🏻‍🏫
 
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
+
 ## Introduction
 
 The repository contains all my work for this [Deep Learning Specialization on Coursera by DeepLearning.AI](https://www.coursera.org/specializations/deep-learning). All the code base, quiz questions, screenshot, and images, are taken from there, unless specified.
@@ -36,6 +39,11 @@ The repository contains all my work for this [Deep Learning Specialization on Co
 [Operations on word vectors - Debiasing](https://github.com/UtkarshTrehan-icloud/Deep-Learning/tree/master/Operations%20on%20word%20vectors%20-%20Debiasing)🧠  
 [Neural Machine Translation with Attention](https://github.com/UtkarshTrehan-icloud/Deep-Learning/tree/master/Neural%20Machine%20Translation%20with%20Attention)🧠  
 [Art generation with Neural Style Transfer](https://github.com/UtkarshTrehan-icloud/Deep-Learning/tree/master/Art%20generation%20with%20Neural%20Style%20Transfer)🎨  
+
+# Certificate   
+[Link to certificate](https://www.coursera.org/account/accomplishments/verify/D7N2H5GT6LBA)  
+<img src="https://github.com/UtkarshTrehan-icloud/Deep-Learning/blob/master/Certificate/certificate.jpeg" width="40%">  
+
 
 # Author
 Utkarsh Trehan  
